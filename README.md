@@ -6,6 +6,9 @@ Please see: https://github.com/martinlindhe/base16-iterm2
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.  
 This theme was built with [Base16 Builder](https://github.com/chriskempson/base16-builder).
 
+This is a maintained fork of https://github.com/chriskempson/base16-iterm2
+
+
 ## Installation
 + On iTerm2, go to Preferences > Profiles > Colors
 + Click on Color Presets > Import and import your favorite theme from this repo
